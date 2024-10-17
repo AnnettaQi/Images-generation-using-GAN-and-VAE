@@ -7,6 +7,7 @@ As a starting point, a deterministic auto-encoder (DAE) achieves good reconstruc
 so, here implement a VAE and GAN to generate better images. 
 
 Part 1: vae_skeleton.ipynb
+
 Part 2: gan_skeleton.ipynb
 
 Part 1:
